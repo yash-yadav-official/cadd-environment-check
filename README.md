@@ -1,6 +1,6 @@
-# CADD Workshop Installation Verification
+# CADD Verification
 
-This repository contains a utility script designed to verify the development environment for the **Computer-Aided Drug Design (CADD) Workshop**. 
+This repository contains a utility script designed to verify the development environment for the **Computer-Aided Drug Design (CADD)** 
 
 It runs a series of checks to ensure that all necessary bioinformatics, cheminformatics, and molecular docking tools are correctly installed and accessible via the system `PATH`.
 
